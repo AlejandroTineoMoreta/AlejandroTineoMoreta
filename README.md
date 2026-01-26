@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Alejandro+M.+Tineo;Front-End+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=garamond&size=32&duration=1000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Alejandro+M.+Tineo;Front-End+Developer" />
 </h1>
 
 <p align="center">
@@ -55,4 +55,14 @@ Me gusta hacer cosas **simples, claras y bien hechas**.
   <a href="https://www.linkedin.com/in/alejandro-tineo-a69181347/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
   </a>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1500&pause=500&color=FF0000&background=000000&center=true&vCenter=true&width=650&lines=Alejandro+M.+Tineo" />
 </p>
